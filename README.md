@@ -1,4 +1,4 @@
-# Supervised-Feature-Selection
+# Supervised-feature-selection
 
 Method:  GRMLSRSOFS (supervised)
 
